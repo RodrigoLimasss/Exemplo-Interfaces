@@ -229,3 +229,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+Interfaces/Properties/AssemblyInfo.cs
